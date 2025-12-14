@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/ВАШ-АККАУНТ/progmatika-spk-nvf.git
+git add .
+git commit -m "Enterprise site: PROGMATIKA SPK & NVF"
+git push -u origin main
